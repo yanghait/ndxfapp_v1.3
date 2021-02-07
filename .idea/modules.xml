@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ndxfapp_v1.3.iml" filepath="$PROJECT_DIR$/.idea/modules/ndxfapp_v1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ndxfapp_v1.3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ndxfapp_v1.3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/ndxfapp_v1.3.libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/ndxfapp_v1.3.libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/loadingdialog/ndxfapp_v1.3.libraries.loadingdialog.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/loadingdialog/ndxfapp_v1.3.libraries.loadingdialog.iml" />
+    </modules>
+  </component>
+</project>
